@@ -52,7 +52,7 @@
       { "text": "Example JSON", "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json" }
     ],
 
-    "hidden engrams": [
+    "hiddenengrams": [
       "EngramEntry_CryoGun_Mod_C",
       "EngramEntry_NeuterGun_Mod_C",
       "EngramEntry_EmptyCryopod_Mod_C",
