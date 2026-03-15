@@ -58,7 +58,7 @@
       "EngramEntry_EmptyCryopod_Mod_C",
       "EngramEntry_CryoFridge_Mod_C",
       "EngramEntry_CryoTerminal_Mod_C",
-      "EngramEntry_StackedCryochamber_Mod_C"
+      "EngramEntry_CryoChamber_Mod_C"
     ],
 
     "version": 2
