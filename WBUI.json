@@ -57,7 +57,10 @@
       "EngramEntry_NeuterGun_Mod_C",
       "EngramEntry_EmptyCryopod_Mod_C",
       "EngramEntry_CryoFridge_Mod_C",
-      "EngramEntry_CryoTerminal_Mod_C"
+      "EngramEntry_CryoTerminal_Mod_C",
+      "EngramEntry_Cryopod_New_C",
+      "EngramEntry_CryoFridge_New_C",
+      "EngramEntry_CryoTerminal_New_C"
     ],
 
     "version": 2
