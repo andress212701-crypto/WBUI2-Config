@@ -2,8 +2,8 @@
   "WBUI2": {
     "settings": {
       "openbutton": 0,
-      "hideicon": false,
-      "hideiconafter": 60,
+      "hideicon": true,
+      "hideiconafter": 30,
       "iconurl": "https://i.imgur.com/OZ6xOjY.png",
       "disableicontext": false,
       "iconposition": 0,
@@ -16,40 +16,93 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "Welcome",
+        "buttontext": "Bienvenue",
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
         "content": [
           {
-            "title": "Thanks for installing WBUI2!",
-            "text": "This UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab."
+            "title": "Legoras Ark — Serveur PvE x3",
+            "text": "Bienvenue sur Legoras Ark !\n\nServeur PvE x3 francophone, communauté amicale et configuration optimisée.\n\nAppuie sur F1 pour ouvrir ce menu à tout moment."
           }
         ]
       },
+
       {
-        "layout": 2,
-        "buttontext": "Settings",
+        "layout": 1,
+        "buttontext": "Taux du Serveur",
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
         "content": [
           {
-            "title": "INI settings:",
-            "text": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update"
-          },
+            "title": "Paramètres du Serveur",
+            "text": "📌 **Taux PvE x3**\n\n• Expérience : x3\n• Récolte : x3\n• Apprivoisement : x3\n• Élevage : x3\n• Maturation : x3\n• Qualité des loots : x3\n• Taille des stacks : x3\n\n✔️ Friendly Fire désactivé\n✔️ Gamma activé\n✔️ Transport par volant autorisé\n✔️ PvE avec protection hors-ligne"
+          }
+        ]
+      },
+
+      {
+        "layout": 1,
+        "buttontext": "Élevage",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
           {
-            "title": "JSON settings:",
-            "text": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://i.imgur.com/OZ6xOjY.png\"  -  You can upload a custom image somewhere (e.g. imgur, link down below) and it will be used as the Icon in the bottom left.\n\nDisableIconText  -  true/false, default:false  -  If true the text \"F1 for Info\" will not be displayed.\n\nIconPosition  -  0/1/2/3, default:0, 0=Top Left, 1=Top Right, 2=Bottom Right, 3=Bottom Left  -  Set the position of the Icon.\n\nIconTextColor  -  0/1/2/3/4/5/6/7/8, default:0, 0=Light Blue, 1=Red, 2=Green, 3=Blue, 4=Yellow, 5=Orange, 6=Violet, 7=Black, 8=White  -  Sets the color of the \"F1 For Info\" text.\n\nOpenOnStart  -  true/false, default: true  -  If true the UI will open automatically after the player spawned.\n\nOpenOnStartOnlyNewPlayers  -  true/false, default: true  -  If true the UI only opens automatically the first time the player spawns on the server.\n\nUpdateInterval  -  integer, default: 12  -  This value determines the time in hours the mod automatically pulls the JSON from the URL to update settings.\n\nGENERAL INFORMATION:\n\n\nFor the rest of the settings pls checkout the Wiki or the example JSON linked down below.\n\nIn order to pass the JSON-validation you have to use \"*backslash*n\" without a space to generate newlines. although the mod should handle regular newlines just fine.\n\nSpecial characters like \" have to be escaped with a *backslash*\n\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\n\nBe careful with the file size of the images. The user have to download the images."
+            "title": "Paramètres d'Élevage",
+            "text": "🐣 **Élevage optimisé pour petits groupes**\n\n• Intervalle d'accouplement : 0.05\n• Vitesse d'incubation : x150\n• Vitesse de maturation : x50\n• Intervalle de câlins : 0.015\n• Imprint universel activé\n• Consommation de nourriture réduite\n\nLes bébés grandissent rapidement tout en gardant un gameplay équilibré."
+          }
+        ]
+      },
+
+      {
+        "layout": 1,
+        "buttontext": "Règles",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "Règles du Serveur",
+            "text": "📜 **Règles principales**\n\n1. Respect entre joueurs obligatoire.\n2. Interdiction de bloquer les ressources.\n3. Pas de construction dans les zones de spawn.\n4. Pas d'apprivoisement dans les grottes.\n5. Pas d'utilisation de bugs ou exploits.\n6. Pas de spam de structures.\n\nLe non-respect peut entraîner des sanctions."
+          }
+        ]
+      },
+
+      {
+        "layout": 1,
+        "buttontext": "Mods",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "Mods Installés",
+            "text": "🧩 **Liste des Mods**\n\n• WBUI2 — Interface personnalisée\n• MXE ArkShop — Boutique en jeu\n• Bloodforge — Amélioration d'équipement\n• Bunkers — Systèmes de bunkers PvE\n• Cryo Hospital — Gestion avancée des dinos\n• TekPlus — Contenu Tek amélioré\n• Marnii Hairstyles — Coiffures\n• S-Dinos — Variantes spéciales\n• DinoDepot — Gestion de dinos\n\nTous optimisés pour une expérience PvE stable."
+          }
+        ]
+      },
+
+      {
+        "layout": 1,
+        "buttontext": "Boutique",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "MXE ArkShop",
+            "text": "💰 **Boutique du Serveur**\n\n• Points par heure : 20\n• Points par kill : 5\n• Points par Alpha : 50\n• Points par Boss : 250\n• Touche d'ouverture : F6\n• Cooldown : 60 secondes\n\nUtilise /buy, /shop, /points dans le chat."
+          }
+        ]
+      },
+
+      {
+        "layout": 1,
+        "buttontext": "Communauté",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "Rejoindre la Communauté",
+            "text": "Besoin d'aide, envie de participer aux événements ou de discuter avec la communauté ?\n\nRejoins notre Discord :\nhttps://discord.gg/yTgKndZF"
           }
         ]
       }
     ],
 
     "links": [
-      { "text": "Discord", "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
-      { "text": "Wiki", "url": "https://wiki.wbui2.de" },
-      { "text": "CurseForge", "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2" },
-      { "text": "JSON-Validator", "url": "https://jsonlint.com" },
-      { "text": "Github", "url": "https://github.com" },
-      { "text": "Imgur", "url": "https://imgur.com" },
-      { "text": "Example JSON", "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json" }
+      { "text": "Discord", "url": "https://discord.gg/yTgKndZF" },
+      { "text": "Wiki WBUI2", "url": "https://wiki.wbui2.de" },
+      { "text": "CurseForge", "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2" }
     ],
 
     "hiddenengrams": [
