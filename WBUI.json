@@ -4,7 +4,7 @@
       "openbutton": 0,
       "hideicon": true,
       "hideiconafter": 30,
-      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "iconurl": "https://discord.com/channels/1171856249579647076/1176253661647736842/1484609142101508097",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
@@ -33,7 +33,7 @@
         "content": [
           {
             "title": "Paramètres du Serveur",
-            "text": "📌 **Taux PvE x3**\n\n• Expérience : x3\n• Récolte : x3\n• Apprivoisement : x3\n• Élevage : x3\n• Maturation : x3\n• Qualité des loots : x3\n• Taille des stacks : x3\n\n✔️ Friendly Fire désactivé\n✔️ Gamma activé\n✔️ Transport par volant autorisé\n✔️ PvE avec protection hors-ligne"
+            "text": "📌 **Taux PvE x3**\n\n• Expérience : x3\n• Récolte : x3\n• Apprivoisement : x3\n• Élevage : x3\n• Maturation : x3\n• Qualité des loots : x3\n• Taille des stacks : x3\n\n✔️ Friendly Fire désactivé\n✔️ Gamma activé\n✔️ Transport par volant autorisé\n✔️ PvE avec protection hors-ligne\n✔️ Décay désactivé (structures et dinos)"
           }
         ]
       },
@@ -57,7 +57,7 @@
         "content": [
           {
             "title": "Règles du Serveur",
-            "text": "📜 **Règles principales**\n\n1. Respect entre joueurs obligatoire.\n2. Interdiction de bloquer les ressources.\n3. Pas de construction dans les zones de spawn.\n4. Pas d'apprivoisement dans les grottes.\n5. Pas d'utilisation de bugs ou exploits.\n6. Pas de spam de structures.\n\nLe non-respect peut entraîner des sanctions."
+            "text": "📜 **Règles principales**\n\n1. Le respect entre joueurs est obligatoire.\n2. Interdiction de bloquer les ressources naturelles.\n3. Construction dans les zones non autorisées = **bannissement permanent**.\n4. Capturer, piéger ou bloquer un joueur = **bannissement permanent**.\n5. Pas d'apprivoisement dans les grottes.\n6. Pas d'utilisation de bugs ou exploits.\n7. Pas de spam de structures.\n\n⚠️ Le non-respect des règles entraîne une **expulsion immédiate** ou un **bannissement définitif** selon la gravité."
           }
         ]
       },
@@ -81,7 +81,7 @@
         "content": [
           {
             "title": "MXE ArkShop",
-            "text": "💰 **Boutique du Serveur**\n\n• Points par heure : 20\n• Points par kill : 5\n• Points par Alpha : 50\n• Points par Boss : 250\n• Touche d'ouverture : F6\n• Cooldown : 60 secondes\n\nUtilise /buy, /shop, /points dans le chat."
+            "text": "💰 **Boutique du Serveur**\n\n• Points par heure : 20\n• Points par kill : 5\n• Points par Alpha : 50\n• Points par Boss : 250\n• Touche d'ouverture : F6\n• Cooldown : 60 secondes\n\nCommandes utiles :\n• /shop — Ouvre la boutique\n• /points — Affiche vos points\n• /buy — Acheter un objet\n\nLa boutique est régulièrement mise à jour."
           }
         ]
       },
@@ -93,16 +93,14 @@
         "content": [
           {
             "title": "Rejoindre la Communauté",
-            "text": "Besoin d'aide, envie de participer aux événements ou de discuter avec la communauté ?\n\nRejoins notre Discord :\nhttps://discord.gg/yTgKndZF"
+            "text": "Rejoins notre communauté pour obtenir de l'aide, participer aux événements et discuter avec les autres joueurs.\n\nClique sur le bouton Discord ci-dessous."
           }
         ]
       }
     ],
 
     "links": [
-      { "text": "Discord", "url": "https://discord.gg/yTgKndZF" },
-      { "text": "Wiki WBUI2", "url": "https://wiki.wbui2.de" },
-      { "text": "CurseForge", "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2" }
+      { "text": "Discord", "url": "https://discord.gg/yTgKndZF" }
     ],
 
     "hiddenengrams": [
