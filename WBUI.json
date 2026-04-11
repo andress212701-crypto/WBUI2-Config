@@ -1,119 +1,162 @@
 {
-  "WBUI2": {
-    "settings": {
-      "openbutton": 0,
-      "hideicon": true,
-      "hideiconafter": 30,
-      "iconurl": "https://i.imgur.com/UNGunc8.png",
-      "disableicontext": false,
-      "iconposition": 0,
-      "icontextcolor": 0,
-      "openonstart": true,
-      "openonstartonlynewplayers": true,
-      "updateinterval": 12
-    },
+    "WBUI2": {
+        "settings": {
+            "openbutton": 0,
+            "hideicon": true,
+            "hideiconafter": 30,
+            "iconurl": "https://i.imgur.com/UNGunc8.png",
+            "disableicontext": false,
+            "iconposition": 0,
+            "icontextcolor": 0,
+            "openonstart": true,
+            "openonstartonlynewplayers": true,
+            "updateinterval": 12
+        },
 
-    "tabs": [
-      {
-        "layout": 1,
-        "buttontext": "Bienvenue",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "Legoras Ark — Serveur PvE x3",
-            "text": "Bienvenue sur Legoras Ark !\n\nServeur PvE x3 francophone, communauté amicale et configuration optimisée.\n\nAppuie sur F1 pour ouvrir ce menu à tout moment."
-          }
-        ]
-      },
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "<RichColor Color=\"1,0.84,0,1\">⚔  Bienvenue</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "<RichColor Color=\"1,0.84,0,1\">⚔  Legoras Ark — Serveur PvE x3</>",
+                        "text": "<TextStyle.Orange>Bienvenue sur Legoras Ark !</>\n\nTu viens de rejoindre un serveur <RichColor Color=\"1,0.84,0,1\">PvE x3</> francophone, pensé pour une expérience confortable et communautaire.\n\n<TextStyle.LightBlue>Raccourcis utiles :</>\n\n• <RichColor Color=\"1,0.84,0,1\">F1</> — Ce menu d'information\n• <RichColor Color=\"1,0.84,0,1\">F6</> — Boutique du serveur\n• <RichColor Color=\"1,0.84,0,1\">/shop</> — Commande boutique\n• <RichColor Color=\"1,0.84,0,1\">/points</> — Voir vos points\n\n<TextStyle.Green>Bon jeu et bonne aventure !</>"
+                    }
+                ]
+            },
 
-      {
-        "layout": 1,
-        "buttontext": "Taux du Serveur",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "Paramètres du Serveur",
-            "text": "📌 **Taux PvE x3**\n\n• Expérience : x3\n• Récolte : x3\n• Apprivoisement : x3\n• Élevage : x3\n• Maturation : x3\n• Qualité des loots : x3\n• Taille des stacks : x3\n\n✔️ Friendly Fire désactivé\n✔️ Gamma activé\n✔️ Transport par volant autorisé\n✔️ PvE avec protection hors-ligne\n✔️ Décay désactivé (structures et dinos)"
-          }
-        ]
-      },
+            {
+                "layout": 4,
+                "buttontext": "<RichColor Color=\"0,1,0.5,1\">📊  Taux x3</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "<RichColor Color=\"0,1,0.5,1\">⚡ Taux Généraux</>",
+                        "text": "• Expérience : <RichColor Color=\"1,0.84,0,1\">x3</>\n• Récolte : <RichColor Color=\"1,0.84,0,1\">x3</>\n• Apprivoisement : <RichColor Color=\"1,0.84,0,1\">x3</>\n• Qualité des loots : <RichColor Color=\"1,0.84,0,1\">x3</>\n• Taille des stacks : <RichColor Color=\"1,0.84,0,1\">x3</>"
+                    },
+                    {
+                        "title": "<RichColor Color=\"0.3,0.7,1,1\">🐣 Taux d'Élevage</>",
+                        "text": "• Incubation : <RichColor Color=\"1,0.84,0,1\">x150</>\n• Maturation : <RichColor Color=\"1,0.84,0,1\">x50</>\n• Accouplement : <RichColor Color=\"1,0.84,0,1\">x0.05</>\n• Câlins : <RichColor Color=\"1,0.84,0,1\">x0.015</>\n• Imprint universel : <RichColor Color=\"0,1,0.5,1\">✔ Activé</>"
+                    },
+                    {
+                        "title": "<RichColor Color=\"1,0.5,0,1\">🛡 Qualité de Vie</>",
+                        "text": "• Gamma : <RichColor Color=\"0,1,0.5,1\">✔ Activé</>\n• Vol avec créature : <RichColor Color=\"0,1,0.5,1\">✔ Autorisé</>\n• Décay structures/dinos : <RichColor Color=\"0,1,0.5,1\">✔ Désactivé</>\n• Nourriture bébé : <RichColor Color=\"0,1,0.5,1\">✔ Réduite</>"
+                    },
+                    {
+                        "title": "<RichColor Color=\"1,0.3,0.3,1\">🔒 PvE & Sécurité</>",
+                        "text": "• Mode : <RichColor Color=\"1,0.84,0,1\">PvE</>\n• Friendly Fire : <RichColor Color=\"0,1,0.5,1\">✔ Désactivé</>\n• Protection hors-ligne : <RichColor Color=\"0,1,0.5,1\">✔ Activée</>\n• Admin disponible : <RichColor Color=\"0,1,0.5,1\">✔ Oui</>"
+                    }
+                ]
+            },
 
-      {
-        "layout": 1,
-        "buttontext": "Élevage",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "Paramètres d'Élevage",
-            "text": "🐣 **Élevage optimisé pour petits groupes**\n\n• Intervalle d'accouplement : 0.05\n• Vitesse d'incubation : x150\n• Vitesse de maturation : x50\n• Intervalle de câlins : 0.015\n• Imprint universel activé\n• Consommation de nourriture réduite\n\nLes bébés grandissent rapidement tout en gardant un gameplay équilibré."
-          }
-        ]
-      },
+            {
+                "layout": 2,
+                "buttontext": "<RichColor Color=\"0.3,0.7,1,1\">🐣  Élevage</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "<RichColor Color=\"0.3,0.7,1,1\">🥚 Accouplement & Incubation</>",
+                        "text": "<TextStyle.LightBlue>Accouplement</>\n• Intervalle : <RichColor Color=\"1,0.84,0,1\">0.05</>\n\n<TextStyle.LightBlue>Incubation</>\n• Vitesse : <RichColor Color=\"1,0.84,0,1\">x150</>\n\n<TextStyle.LightBlue>Imprint</>\n• Universel : <RichColor Color=\"0,1,0.5,1\">✔ Activé</>\n• Intervalle câlins : <RichColor Color=\"1,0.84,0,1\">0.015</>"
+                    },
+                    {
+                        "title": "<RichColor Color=\"0.3,0.7,1,1\">🦕 Maturation & Conseils</>",
+                        "text": "<TextStyle.LightBlue>Maturation</>\n• Vitesse : <RichColor Color=\"1,0.84,0,1\">x50</>\n• Consommation : <RichColor Color=\"0,1,0.5,1\">✔ Réduite</>\n\n<TextStyle.Yellow>Conseils</>\n• Les bébés grandissent rapidement\n• Active l'imprint universel\n• Surveille la nourriture au début\n• La boutique propose des items d'élevage"
+                    }
+                ]
+            },
 
-      {
-        "layout": 1,
-        "buttontext": "Règles",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "Règles du Serveur",
-            "text": "📜 **Règles principales**\n\n1. Le respect entre joueurs est obligatoire.\n2. Interdiction de bloquer les ressources naturelles.\n3. Construction dans les zones non autorisées = **bannissement permanent**.\n4. Capturer, piéger ou bloquer un joueur = **bannissement permanent**.\n5. Pas d'apprivoisement dans les grottes.\n6. Pas d'utilisation de bugs ou exploits.\n7. Pas de spam de structures.\n\n⚠️ Le non-respect des règles entraîne une **expulsion immédiate** ou un **bannissement définitif** selon la gravité."
-          }
-        ]
-      },
+            {
+                "layout": 2,
+                "buttontext": "<RichColor Color=\"1,0.3,0.3,1\">📜  Règles</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "<RichColor Color=\"1,0.3,0.3,1\">📋 Règles Principales</>",
+                        "text": "<TextStyle.Red>À respecter obligatoirement :</>\n\n<RichColor Color=\"1,0.84,0,1\">1.</> Respect entre joueurs — obligatoire.\n<RichColor Color=\"1,0.84,0,1\">2.</> Interdiction de bloquer les ressources.\n<RichColor Color=\"1,0.84,0,1\">3.</> Construction hors zones = <RichColor Color=\"1,0.3,0.3,1\">ban permanent.</>.\n<RichColor Color=\"1,0.84,0,1\">4.</> Piéger/bloquer un joueur = <RichColor Color=\"1,0.3,0.3,1\">ban permanent.</>"
+                    },
+                    {
+                        "title": "<RichColor Color=\"1,0.3,0.3,1\">⚠ Suite & Conséquences</>",
+                        "text": "<RichColor Color=\"1,0.84,0,1\">5.</> Pas d'apprivoisement dans les grottes.\n<RichColor Color=\"1,0.84,0,1\">6.</> Interdiction d'utiliser des bugs/exploits.\n<RichColor Color=\"1,0.84,0,1\">7.</> Pas de spam de structures.\n\n<TextStyle.Red>Conséquences :</>\n• Infraction légère : <RichColor Color=\"1,0.65,0,1\">Avertissement</>\n• Infraction grave : <RichColor Color=\"1,0.3,0.3,1\">Ban immédiat</>"
+                    }
+                ]
+            },
 
-      {
-        "layout": 1,
-        "buttontext": "Mods",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "Mods Installés",
-            "text": "🧩 **Liste des Mods**\n\n• WBUI2 — Interface personnalisée\n• MXE ArkShop — Boutique en jeu\n• Bloodforge — Amélioration d'équipement\n• Bunkers — Systèmes de bunkers PvE\n• Cryo Hospital — Gestion avancée des dinos\n• TekPlus — Contenu Tek amélioré\n• Marnii Hairstyles — Coiffures\n• S-Dinos — Variantes spéciales\n• DinoDepot — Gestion de dinos\n\nTous optimisés pour une expérience PvE stable."
-          }
-        ]
-      },
+            {
+                "layout": 2,
+                "buttontext": "<RichColor Color=\"0.7,0.3,1,1\">🧩  Mods</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "<RichColor Color=\"0.7,0.3,1,1\">⚙ Mods Gameplay</>",
+                        "text": "• <RichColor Color=\"1,0.84,0,1\">WBUI2</> — Interface personnalisée\n• <RichColor Color=\"1,0.84,0,1\">MXE ArkShop</> — Boutique en jeu\n• <RichColor Color=\"1,0.84,0,1\">Bloodforge</> — Amélioration d'équipement\n• <RichColor Color=\"1,0.84,0,1\">Bunkers</> — Systèmes de bunkers PvE\n• <RichColor Color=\"1,0.84,0,1\">TekPlus</> — Contenu Tek amélioré\n• <RichColor Color=\"1,0.84,0,1\">S-Dinos</> — Variantes spéciales de dinos"
+                    },
+                    {
+                        "title": "<RichColor Color=\"0.7,0.3,1,1\">🗂 Gestion & Cosmétiques</>",
+                        "text": "• <RichColor Color=\"1,0.84,0,1\">Cryo Hospital</> — Gestion avancée des dinos\n• <RichColor Color=\"1,0.84,0,1\">DinoDepot</> — Stockage de dinos\n• <RichColor Color=\"1,0.84,0,1\">Marnii Hairstyles</> — Coiffures & cosmétiques\n\n<TextStyle.LightBlue>Tous les mods sont optimisés pour une expérience PvE stable et fluide.</>"
+                    }
+                ]
+            },
 
-      {
-        "layout": 1,
-        "buttontext": "Boutique",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "MXE ArkShop",
-            "text": "💰 **Boutique du Serveur**\n\n• Points par heure : 20\n• Points par kill : 5\n• Points par Alpha : 50\n• Points par Boss : 250\n• Touche d'ouverture : F6\n• Cooldown : 60 secondes\n\nCommandes utiles :\n• /shop — Ouvre la boutique\n• /points — Affiche vos points\n• /buy — Acheter un objet\n\nLa boutique est régulièrement mise à jour."
-          }
-        ]
-      },
+            {
+                "layout": 2,
+                "buttontext": "<RichColor Color=\"1,0.84,0,1\">💰  Boutique</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "<RichColor Color=\"1,0.84,0,1\">💎 Gains de Points</>",
+                        "text": "<TextStyle.Yellow>MXE ArkShop</>\n\n• Par heure de jeu : <RichColor Color=\"0,1,0.5,1\">+20 pts</>\n• Par kill : <RichColor Color=\"0,1,0.5,1\">+5 pts</>\n• Par Alpha tué : <RichColor Color=\"1,0.65,0,1\">+50 pts</>\n• Par Boss tué : <RichColor Color=\"1,0.3,0.3,1\">+250 pts</>\n\n• Touche : <RichColor Color=\"1,0.84,0,1\">F6</>\n• Cooldown : <RichColor Color=\"1,0.84,0,1\">60 secondes</>"
+                    },
+                    {
+                        "title": "<RichColor Color=\"1,0.84,0,1\">📋 Commandes</>",
+                        "text": "• <RichColor Color=\"0.3,0.7,1,1\">/shop</> — Ouvre la boutique\n• <RichColor Color=\"0.3,0.7,1,1\">/points</> — Affiche vos points\n• <RichColor Color=\"0.3,0.7,1,1\">/buy [item]</> — Acheter un objet\n\n<TextStyle.LightBlue>La boutique est régulièrement mise à jour !</>"
+                    }
+                ]
+            },
 
-      {
-        "layout": 1,
-        "buttontext": "Communauté",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "Rejoindre la Communauté",
-            "text": "Rejoins notre communauté pour obtenir de l'aide, participer aux événements et discuter avec les autres joueurs.\n\nClique sur le bouton Discord ci-dessous."
-          }
-        ]
-      }
-    ],
+            {
+                "layout": 1,
+                "buttontext": "<RichColor Color=\"0,1,1,1\">👥  Joueurs</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "<RichColor Color=\"0,1,1,1\">👥 Joueurs Connectés</>",
+                        "text": "{playerlist}"
+                    }
+                ]
+            },
 
-    "links": [
-      { "text": "Discord", "url": "https://discord.gg/yTgKndZF" }
-    ],
+            {
+                "layout": 1,
+                "buttontext": "<RichColor Color=\"0,0.8,1,1\">🌐  Communauté</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "<RichColor Color=\"0,0.8,1,1\">🌐 Rejoindre la Communauté</>",
+                        "text": "<TextStyle.LightBlue>Rejoins notre Discord pour :</>\n\n• Obtenir de l'aide rapidement\n• Participer aux événements et concours\n• Discuter avec les autres joueurs\n• Être informé des mises à jour du serveur\n• Signaler un problème ou un joueur\n\n<TextStyle.Yellow>Clique sur le bouton Discord ci-dessous !</>\n\n<TextStyle.Orange>On se retrouve en jeu — Bonne aventure sur Legoras Ark !</>"
+                    }
+                ]
+            }
+        ],
 
-    "hiddenengrams": [
-      "EngramEntry_CryoGun_Mod_C",
-      "EngramEntry_NeuterGun_Mod_C",
-      "EngramEntry_EmptyCryopod_Mod_C",
-      "EngramEntry_CryoFridge_Mod_C",
-      "EngramEntry_CryoTerminal_Mod_C",
-      "EngramEntry_Cryopod_New_C",
-      "EngramEntry_CryoFridge_New_C",
-      "EngramEntry_CryoTerminal_New_C"
-    ],
+        "links": [
+            {
+                "text": "<RichColor Color=\"0.4,0.6,1,1\">🎮 Discord Legoras Ark</>",
+                "url": "https://discord.gg/yTgKndZF"
+            }
+        ],
 
-    "version": 2
-  }
+        "hiddenengrams": [
+            "EngramEntry_CryoGun_Mod_C",
+            "EngramEntry_NeuterGun_Mod_C",
+            "EngramEntry_EmptyCryopod_Mod_C",
+            "EngramEntry_CryoFridge_Mod_C",
+            "EngramEntry_CryoTerminal_Mod_C",
+            "EngramEntry_Cryopod_New_C",
+            "EngramEntry_CryoFridge_New_C",
+            "EngramEntry_CryoTerminal_New_C"
+        ],
+
+        "version": 2
+    }
 }
