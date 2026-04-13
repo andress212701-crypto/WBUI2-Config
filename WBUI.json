@@ -45,7 +45,7 @@
                     },
                     {
                         "title": "<RichColor Color=\"1,0.3,0.3,1\">PvE & Securite</>",
-                        "text": "• Mode : <RichColor Color=\"1,0.84,0,1\">PvE</>\n• Friendly Fire : <RichColor Color=\"0,1,0.5,1\">✔ Desactive</>\n• Protection hors-ligne : <RichColor Color=\"0,1,0.5,1\">✔ Active</>\n• Decay structures/dinos : <RichColor Color=\"0,1,0.5,1\">✔ Desactive</>\n• Admin disponible : <RichColor Color=\"0,1,0.5,1\">✔ Oui</>\n\n<TextStyle.LightBlue>Anti PvE Griefing :</>\n• Inventaires corps/sacs proteges\n• Controle des structures (generateur...)\n• Accouplement inter-tribu bloque\n• Impossible de porter un joueur/dino\n• Oeufs et objets au sol proteges\n• Dinos decays detruits auto\n• Protection offline personnalisee"
+                        "text": "• Mode : <RichColor Color=\"1,0.84,0,1\">PvE</>\n• Friendly Fire : <RichColor Color=\"0,1,0.5,1\">✔ Desactive</>\n• Protection hors-ligne : <RichColor Color=\"0,1,0.5,1\">✔ Active</>\n• Decay structures/dinos : <RichColor Color=\"0,1,0.5,1\">✔ Desactive</>\n• Anti PvE Griefing :</>\n• Inventaires corps/sacs proteges\n• Controle des structures (generateur...)\n• Accouplement inter-tribu bloque\n• Impossible de porter un joueur/dino\n• Oeufs et objets au sol proteges\n• Dinos decays detruits auto\n• Protection offline personnalisee"
                     }
                 ]
             },
