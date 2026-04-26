@@ -109,11 +109,11 @@
                     },
                     {
                         "title": "<RichColor Color=\"0.7,0.3,1,1\">Mods Dinos & Qualite de Vie</>",
-                        "text": "• <RichColor Color=\"1,0.84,0,1\">S-Dino Variants</> — Variantes speciales de dinos\n• <RichColor Color=\"1,0.84,0,1\">Cliffans Horses</> — Chevaux\n• <RichColor Color=\"1,0.84,0,1\">Eggcellent Adventure</> — Evenement oeufs\n• <RichColor Color=\"1,0.84,0,1\">Cryopods</> — Gestion des cryopods\n• <RichColor Color=\"1,0.84,0,1\">HideCryopods</> — Masquer les cryopods\n• <RichColor Color=\"1,0.84,0,1\">Visual Storage</> — Stockage visuel\n• <RichColor Color=\"1,0.84,0,1\">Klinger Rustic Building</> — Construction rustique\n• <RichColor Color=\"1,0.84,0,1\">MarniiMods Hairstyles</> — Coiffures & cosmetiques"
+                        "text": "• <RichColor Color=\"1,0.84,0,1\">S-Dino Variants</> — Variantes speciales de dinos\n• <RichColor Color=\"1,0.84,0,1\">Visual Storage</> — Stockage visuel\n• <RichColor Color=\"1,0.84,0,1\">MarniiMods Hairstyles</> — Coiffures & cosmetiques"
                     },
                     {
                         "title": "<RichColor Color=\"1,0.84,0,1\">Boutique — Points & Commandes</>",
-                        "text": "<TextStyle.Yellow>Gains :</>\n• Toutes les 30 min de jeu : <RichColor Color=\"0,1,0.5,1\">+35 pts</>\n\n<TextStyle.Yellow>Commandes :</>\n• <RichColor Color=\"0.3,0.7,1,1\">/shop</> — Ouvre la boutique (F6)"
+                        "text": "<TextStyle.Yellow>Gains :</>\n• Toutes les 30 min de jeu : <RichColor Color=\"0,1,0.5,1\">+45 pts</>\n\n<TextStyle.Yellow>Commandes :</>\n• <RichColor Color=\"0.3,0.7,1,1\">/shop</> — Ouvre la boutique (F6)"
                     },
                     {
                         "title": "<RichColor Color=\"0,1,1,1\">Joueurs Connectes</>",
@@ -128,14 +128,6 @@
         ],
 
         "hiddenengrams": [
-            "EngramEntry_CryoGun_Mod_C",
-            "EngramEntry_NeuterGun_Mod_C",
-            "EngramEntry_EmptyCryopod_Mod_C",
-            "EngramEntry_CryoFridge_Mod_C",
-            "EngramEntry_CryoTerminal_Mod_C",
-            "EngramEntry_Cryopod_New_C",
-            "EngramEntry_CryoFridge_New_C",
-            "EngramEntry_CryoTerminal_New_C"
         ],
 
         "version": 2
