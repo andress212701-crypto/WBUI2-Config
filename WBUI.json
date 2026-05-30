@@ -1,135 +1,137 @@
 {
-    "WBUI2": {
-        "settings": {
-            "openbutton": 0,
-            "hideicon": true,
-            "hideiconafter": 30,
-            "iconurl": "https://i.imgur.com/UNGunc8.png",
-            "disableicontext": false,
-            "iconposition": 0,
-            "icontextcolor": 0,
-            "openonstart": true,
-            "openonstartonlynewplayers": true,
-            "updateinterval": 12
-        },
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": true,
+      "hideiconafter": 30,
+      "iconurl": "https://i.imgur.com/UNGunc8.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 12
+    },
 
-        "tabs": [
-            {
-                "layout": 1,
-                "buttontext": "<RichColor Color=\"1,0.84,0,1\">Bienvenue</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"1,0.84,0,1\">Legoras Ark — Serveur PvE x3</>",
-                        "text": "<TextStyle.Orange>Bienvenue sur Legoras Ark !</>\n\nTu viens de rejoindre un serveur <RichColor Color=\"1,0.84,0,1\">PvE x3</> francophone, pense pour une experience confortable et communautaire.\n\n<TextStyle.LightBlue>Raccourcis utiles :</>\n\n• <RichColor Color=\"1,0.84,0,1\">F1</> — Ce menu d'information\n• <RichColor Color=\"1,0.84,0,1\">F6</> — Boutique du serveur\n• <RichColor Color=\"1,0.84,0,1\">/shop</> — Commande boutique\n• <RichColor Color=\"1,0.84,0,1\">/recu</> — Recuperer ses objets apres la mort\n• <RichColor Color=\"1,0.84,0,1\">/lsm</> — Lister ses morts\n\n<TextStyle.Green>Bon jeu et bonne aventure !</>"
-                    }
-                ]
-            },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"1,0.84,0,1\">Bienvenue</>",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,0.84,0,1\">Legoras Ark — Serveur PvE x3</>",
+            "text": "<TextStyle.Orange>Bienvenue sur Legoras Ark !</>\n\nTu viens de rejoindre un serveur <RichColor Color=\"1,0.84,0,1\">PvE x3</> francophone, pense pour une experience confortable et communautaire.\n\n<TextStyle.LightBlue>Raccourcis utiles :</>\n\n• <RichColor Color=\"1,0.84,0,1\">F1</> — Ce menu d'information\n• <RichColor Color=\"1,0.84,0,1\">F6</> — Boutique du serveur\n• <RichColor Color=\"1,0.84,0,1\">/shop</> — Commande boutique\n• <RichColor Color=\"1,0.84,0,1\">/recu</> — Recuperer ses objets apres la mort\n• <RichColor Color=\"1,0.84,0,1\">/lsm</> — Lister ses morts\n\n<TextStyle.Yellow>Infos importantes :</>\n\n• Le serveur redémarre chaque jour a <RichColor Color=\"1,0.3,0.3,1\">3h00 du matin (UTC-5 / UTC-4 en ete)</> — prevois tes actions en consequence.\n• Pour <RichColor Color=\"1,0.84,0,1\">acheter des points</>, rends-toi sur notre <RichColor Color=\"0.4,0.6,1,1\">Discord</> via le bouton en bas.\n\n<TextStyle.Green>Bon jeu et bonne aventure !</>"
+          }
+        ]
+      },
 
-            {
-                "layout": 4,
-                "buttontext": "<RichColor Color=\"0,1,0.5,1\">Serveur</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0,1,0.5,1\">Taux Generaux</>",
-                        "text": "• Experience : <RichColor Color=\"1,0.84,0,1\">x3</>\n• Recolte : <RichColor Color=\"1,0.84,0,1\">x3</>\n• Apprivoisement : <RichColor Color=\"1,0.84,0,1\">x10</>\n• Qualite des loots : <RichColor Color=\"1,0.84,0,1\">x3</>\n• Taille des stacks : <RichColor Color=\"1,0.84,0,1\">x3</>"
-                    },
-                    {
-                        "title": "<RichColor Color=\"0.3,0.7,1,1\">Taux d'Elevage</>",
-                        "text": "• Incubation : <RichColor Color=\"1,0.84,0,1\">x150</>\n• Maturation : <RichColor Color=\"1,0.84,0,1\">x50</>\n• Accouplement : <RichColor Color=\"1,0.84,0,1\">x0.05</>\n• Calins : <RichColor Color=\"1,0.84,0,1\">x0.015</>\n• Imprint universel : <RichColor Color=\"0,1,0.5,1\">✔ Active</>"
-                    },
-                    {
-                        "title": "<RichColor Color=\"1,0.5,0,1\">Difficulte & Survie</>",
-                        "text": "• Difficulte : <RichColor Color=\"1,0.84,0,1\">5.0</>\n• Drain Nourriture : <RichColor Color=\"1,0.84,0,1\">x0.4</>\n• Drain Eau : <RichColor Color=\"1,0.84,0,1\">x0.4</>\n• Gamma : <RichColor Color=\"0,1,0.5,1\">✔ Active</>\n• Vol avec creature : <RichColor Color=\"0,1,0.5,1\">✔ Autorise</>"
-                    },
-                    {
-                        "title": "<RichColor Color=\"1,0.3,0.3,1\">PvE & Securite</>",
-                        "text": "• Mode : <RichColor Color=\"1,0.84,0,1\">PvE</>\n• Friendly Fire : <RichColor Color=\"0,1,0.5,1\">✔ Desactive</>\n• Protection hors-ligne : <RichColor Color=\"0,1,0.5,1\">✔ Active</>\n• Decay structures/dinos : <RichColor Color=\"0,1,0.5,1\">✔ Desactive</>\n• Anti PvE Griefing :</>\n• Inventaires corps/sacs proteges\n• Controle des structures (generateur...)\n• Accouplement inter-tribu bloque\n• Impossible de porter un joueur/dino\n• Oeufs et objets au sol proteges\n• Dinos decays detruits auto\n• Protection offline personnalisee"
-                    }
-                ]
-            },
+      {
+        "layout": 4,
+        "buttontext": "<RichColor Color=\"0,1,0.5,1\">Serveur</>",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,1,0.5,1\">Taux Generaux</>",
+            "text": "• Experience : <RichColor Color=\"1,0.84,0,1\">x3</>\n• Recolte : <RichColor Color=\"1,0.84,0,1\">x3</>\n• Apprivoisement : <RichColor Color=\"1,0.84,0,1\">x10</>\n• Qualite des loots : <RichColor Color=\"1,0.84,0,1\">x3</>\n• Taille des stacks : <RichColor Color=\"1,0.84,0,1\">x3</>"
+          },
+          {
+            "title": "<RichColor Color=\"0.3,0.7,1,1\">Taux d'Elevage</>",
+            "text": "• Incubation : <RichColor Color=\"1,0.84,0,1\">x150</>\n• Maturation : <RichColor Color=\"1,0.84,0,1\">x50</>\n• Accouplement : <RichColor Color=\"1,0.84,0,1\">x0.05</>\n• Calins : <RichColor Color=\"1,0.84,0,1\">x0.015</>\n• Imprint universel : <RichColor Color=\"0,1,0.5,1\">✔ Active</>"
+          },
+          {
+            "title": "<RichColor Color=\"1,0.5,0,1\">Difficulte & Survie</>",
+            "text": "• Difficulte : <RichColor Color=\"1,0.84,0,1\">5.0</>\n• Drain Nourriture : <RichColor Color=\"1,0.84,0,1\">x0.4</>\n• Drain Eau : <RichColor Color=\"1,0.84,0,1\">x0.4</>\n• Gamma : <RichColor Color=\"0,1,0.5,1\">✔ Active</>\n• Vol avec creature : <RichColor Color=\"0,1,0.5,1\">✔ Autorise</>"
+          },
+          {
+            "title": "<RichColor Color=\"1,0.3,0.3,1\">PvE & Securite</>",
+            "text": "• Mode : <RichColor Color=\"1,0.84,0,1\">PvE</>\n• Friendly Fire : <RichColor Color=\"0,1,0.5,1\">✔ Desactive</>\n• Protection hors-ligne : <RichColor Color=\"0,1,0.5,1\">✔ Active</>\n• Decay structures/dinos : <RichColor Color=\"0,1,0.5,1\">✔ Desactive</>\n• Anti PvE Griefing :</>\n• Inventaires corps/sacs proteges\n• Controle des structures (generateur...)\n• Accouplement inter-tribu bloque\n• Impossible de porter un joueur/dino\n• Oeufs et objets au sol proteges\n• Dinos decays detruits auto\n• Protection offline personnalisee"
+          }
+        ]
+      },
 
-            {
-                "layout": 4,
-                "buttontext": "<RichColor Color=\"1,0.4,0.1,1\">Bosses</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"1,0.4,0.1,1\">Broodmother</>",
-                        "text": "<TextStyle.LightBlue>Degats x  /  Resistance x</>\n\n• Gamma : <RichColor Color=\"0,1,0.5,1\">0.6</> / <RichColor Color=\"1,0.84,0,1\">0.75</>\n• Beta  : <RichColor Color=\"1,0.65,0,1\">0.75</> / <RichColor Color=\"1,0.84,0,1\">0.85</>\n• Alpha : <RichColor Color=\"1,0.3,0.3,1\">0.9</> / <RichColor Color=\"1,0.84,0,1\">0.95</>"
-                    },
-                    {
-                        "title": "<RichColor Color=\"1,0.4,0.1,1\">Megapithecus</>",
-                        "text": "<TextStyle.LightBlue>Degats x  /  Resistance x</>\n\n• Gamma : <RichColor Color=\"0,1,0.5,1\">0.6</> / <RichColor Color=\"1,0.84,0,1\">0.75</>\n• Beta  : <RichColor Color=\"1,0.65,0,1\">0.75</> / <RichColor Color=\"1,0.84,0,1\">0.85</>\n• Alpha : <RichColor Color=\"1,0.3,0.3,1\">0.9</> / <RichColor Color=\"1,0.84,0,1\">0.95</>"
-                    },
-                    {
-                        "title": "<RichColor Color=\"1,0.4,0.1,1\">Dragon</>",
-                        "text": "<TextStyle.LightBlue>Degats x  /  Resistance x</>\n\n• Gamma : <RichColor Color=\"0,1,0.5,1\">0.5</> / <RichColor Color=\"1,0.84,0,1\">0.7</>\n• Beta  : <RichColor Color=\"1,0.65,0,1\">0.6</> / <RichColor Color=\"1,0.84,0,1\">0.8</>\n• Alpha : <RichColor Color=\"1,0.3,0.3,1\">0.7</> / <RichColor Color=\"1,0.84,0,1\">0.9</>"
-                    },
-                    {
-                        "title": "<RichColor Color=\"1,0.4,0.1,1\">Overseer</>",
-                        "text": "<TextStyle.LightBlue>Degats x  /  Resistance x</>\n\n• Gamma : <RichColor Color=\"0,1,0.5,1\">0.55</> / <RichColor Color=\"1,0.84,0,1\">0.7</>\n• Beta  : <RichColor Color=\"1,0.65,0,1\">0.8</> / <RichColor Color=\"1,0.84,0,1\">0.88</>\n• Alpha : <RichColor Color=\"1,0.3,0.3,1\">0.92</> / <RichColor Color=\"1,0.84,0,1\">0.95</>"
-                    }
-                ]
-            },
+      {
+        "layout": 4,
+        "buttontext": "<RichColor Color=\"1,0.4,0.1,1\">Bosses</>",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,0.4,0.1,1\">Broodmother</>",
+            "text": "<TextStyle.LightBlue>Degats x  /  Resistance x</>\n\n• Gamma : <RichColor Color=\"0,1,0.5,1\">0.6</> / <RichColor Color=\"1,0.84,0,1\">0.75</>\n• Beta  : <RichColor Color=\"1,0.65,0,1\">0.75</> / <RichColor Color=\"1,0.84,0,1\">0.85</>\n• Alpha : <RichColor Color=\"1,0.3,0.3,1\">0.9</> / <RichColor Color=\"1,0.84,0,1\">0.95</>"
+          },
+          {
+            "title": "<RichColor Color=\"1,0.4,0.1,1\">Megapithecus</>",
+            "text": "<TextStyle.LightBlue>Degats x  /  Resistance x</>\n\n• Gamma : <RichColor Color=\"0,1,0.5,1\">0.6</> / <RichColor Color=\"1,0.84,0,1\">0.75</>\n• Beta  : <RichColor Color=\"1,0.65,0,1\">0.75</> / <RichColor Color=\"1,0.84,0,1\">0.85</>\n• Alpha : <RichColor Color=\"1,0.3,0.3,1\">0.9</> / <RichColor Color=\"1,0.84,0,1\">0.95</>"
+          },
+          {
+            "title": "<RichColor Color=\"1,0.4,0.1,1\">Dragon</>",
+            "text": "<TextStyle.LightBlue>Degats x  /  Resistance x</>\n\n• Gamma : <RichColor Color=\"0,1,0.5,1\">0.5</> / <RichColor Color=\"1,0.84,0,1\">0.7</>\n• Beta  : <RichColor Color=\"1,0.65,0,1\">0.6</> / <RichColor Color=\"1,0.84,0,1\">0.8</>\n• Alpha : <RichColor Color=\"1,0.3,0.3,1\">0.7</> / <RichColor Color=\"1,0.84,0,1\">0.9</>"
+          },
+          {
+            "title": "<RichColor Color=\"1,0.4,0.1,1\">Overseer</>",
+            "text": "<TextStyle.LightBlue>Degats x  /  Resistance x</>\n\n• Gamma : <RichColor Color=\"0,1,0.5,1\">0.55</> / <RichColor Color=\"1,0.84,0,1\">0.7</>\n• Beta  : <RichColor Color=\"1,0.65,0,1\">0.8</> / <RichColor Color=\"1,0.84,0,1\">0.88</>\n• Alpha : <RichColor Color=\"1,0.3,0.3,1\">0.92</> / <RichColor Color=\"1,0.84,0,1\">0.95</>"
+          }
+        ]
+      },
 
-            {
-                "layout": 4,
-                "buttontext": "<RichColor Color=\"1,0.3,0.3,1\">Regles & Commandes</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"1,0.3,0.3,1\">Regles 1-4</>",
-                        "text": "<TextStyle.Red>A respecter obligatoirement :</>\n\n<RichColor Color=\"1,0.84,0,1\">1.</> Respect entre joueurs — obligatoire.\n<RichColor Color=\"1,0.84,0,1\">2.</> Interdiction de bloquer les ressources.\n<RichColor Color=\"1,0.84,0,1\">3.</> Construction hors zones = <RichColor Color=\"1,0.3,0.3,1\">ban permanent.</>\n<RichColor Color=\"1,0.84,0,1\">4.</> Pieger/bloquer un joueur = <RichColor Color=\"1,0.3,0.3,1\">ban permanent.</>"
-                    },
-                    {
-                        "title": "<RichColor Color=\"1,0.3,0.3,1\">Regles 5-7 & Consequences</>",
-                        "text": "<RichColor Color=\"1,0.84,0,1\">5.</> Pas d'apprivoisement dans les grottes.\n<RichColor Color=\"1,0.84,0,1\">6.</> Interdiction d'utiliser des bugs/exploits.\n<RichColor Color=\"1,0.84,0,1\">7.</> Pas de spam de structures.\n\n<TextStyle.Red>Consequences :</>\n• Infraction legere : <RichColor Color=\"1,0.65,0,1\">Avertissement</>\n• Infraction grave : <RichColor Color=\"1,0.3,0.3,1\">Ban immediat</>"
-                    },
-                    {
-                        "title": "<RichColor Color=\"0,1,0.8,1\">Commandes du Serveur</>",
-                        "text": "<TextStyle.LightBlue>Apres la mort :</>\n• <RichColor Color=\"1,0.84,0,1\">/recu</> — Recupere tes objets perdus\n• <RichColor Color=\"1,0.84,0,1\">/lsm</> — Liste toutes tes morts\n\n<TextStyle.LightBlue>Farmeo automatique :</>\n• <RichColor Color=\"1,0.84,0,1\">/farm</> — Active le farmeo auto\n• <RichColor Color=\"1,0.84,0,1\">/stop</> — Arrete le farmeo\n\n<TextStyle.Red>Attention :</> Objets au sol detruits apres <RichColor Color=\"1,0.3,0.3,1\">2 heures</>"
-                    },
-                    {
-                        "title": "<RichColor Color=\"0,1,0.8,1\">Objets Reutilisables</>",
-                        "text": "<TextStyle.LightBlue>Ces items se regenerent automatiquement :</>\n\n<TextStyle.Yellow>Armes :</>\n• Pistolet a fusee\n• Grappin (Grappling Hook)\n• Grenade gazeuse\n• Bola\n• Pistolet de base\n\n<TextStyle.Yellow>Outils :</>\n• Fouet\n\n<TextStyle.Yellow>Consommables :</>\n• Parachute"
-                    }
-                ]
-            },
+      {
+        "layout": 4,
+        "buttontext": "<RichColor Color=\"1,0.3,0.3,1\">Regles & Commandes</>",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,0.3,0.3,1\">Regles 1-4</>",
+            "text": "<TextStyle.Red>A respecter obligatoirement :</>\n\n<RichColor Color=\"1,0.84,0,1\">1.</> Respect entre joueurs — obligatoire.\n<RichColor Color=\"1,0.84,0,1\">2.</> Interdiction de bloquer les ressources.\n<RichColor Color=\"1,0.84,0,1\">3.</> Construction hors zones = <RichColor Color=\"1,0.3,0.3,1\">ban permanent.</>\n<RichColor Color=\"1,0.84,0,1\">4.</> Pieger/bloquer un joueur = <RichColor Color=\"1,0.3,0.3,1\">ban permanent.</>"
+          },
+          {
+            "title": "<RichColor Color=\"1,0.3,0.3,1\">Regles 5-7 & Consequences</>",
+            "text": "<RichColor Color=\"1,0.84,0,1\">5.</> Pas d'apprivoisement dans les grottes.\n<RichColor Color=\"1,0.84,0,1\">6.</> Interdiction d'utiliser des bugs/exploits.\n<RichColor Color=\"1,0.84,0,1\">7.</> Pas de spam de structures.\n\n<TextStyle.Red>Consequences :</>\n• Infraction legere : <RichColor Color=\"1,0.65,0,1\">Avertissement</>\n• Infraction grave : <RichColor Color=\"1,0.3,0.3,1\">Ban immediat</>"
+          },
+          {
+            "title": "<RichColor Color=\"0,1,0.8,1\">Commandes du Serveur</>",
+            "text": "<TextStyle.LightBlue>Apres la mort :</>\n• <RichColor Color=\"1,0.84,0,1\">/recu</> — Recupere tes objets perdus\n• <RichColor Color=\"1,0.84,0,1\">/lsm</> — Liste toutes tes morts\n\n<TextStyle.LightBlue>Farmeo automatique :</>\n• <RichColor Color=\"1,0.84,0,1\">/farm</> — Active le farmeo auto\n• <RichColor Color=\"1,0.84,0,1\">/stop</> — Arrete le farmeo\n\n<TextStyle.Red>Attention :</> Objets au sol detruits apres <RichColor Color=\"1,0.3,0.3,1\">2 heures</>"
+          },
+          {
+            "title": "<RichColor Color=\"0,1,0.8,1\">Objets Reutilisables</>",
+            "text": "<TextStyle.LightBlue>Ces items se regenerent automatiquement :</>\n\n<TextStyle.Yellow>Armes :</>\n• Pistolet a fusee\n• Grappin (Grappling Hook)\n• Grenade gazeuse\n• Bola\n• Pistolet de base\n\n<TextStyle.Yellow>Outils :</>\n• Fouet\n\n<TextStyle.Yellow>Consommables :</>\n• Parachute"
+          }
+        ]
+      },
 
-            {
-                "layout": 4,
-                "buttontext": "<RichColor Color=\"0.7,0.3,1,1\">Mods & Boutique</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "<RichColor Color=\"0.7,0.3,1,1\">Mods Gameplay & Interface</>",
-                        "text": "• <RichColor Color=\"1,0.84,0,1\">WBUI2</> — Interface personnalisee\n• <RichColor Color=\"1,0.84,0,1\">MX-E Ark Shop UI</> — Boutique en jeu\n• <RichColor Color=\"1,0.84,0,1\">Fusionshop</> — Boutique de fusion\n• <RichColor Color=\"1,0.84,0,1\">AwesomeSpyGlass!</> — Longue-vue amelioree\n• <RichColor Color=\"1,0.84,0,1\">ASA Api Utils</> — Utilitaires API\n• <RichColor Color=\"1,0.84,0,1\">TG Stacking Mod 1000-50</> — Stacking ameliore"
-                    },
-                    {
-                        "title": "<RichColor Color=\"0.7,0.3,1,1\">Mods Dinos & Qualite de Vie</>",
-                        "text": "• <RichColor Color=\"1,0.84,0,1\">S-Dino Variants</> — Variantes speciales de dinos\n• <RichColor Color=\"1,0.84,0,1\">Visual Storage</> — Stockage visuel\n• <RichColor Color=\"1,0.84,0,1\">MarniiMods Hairstyles</> — Coiffures & cosmetiques"
-                    },
-                    {
-                        "title": "<RichColor Color=\"1,0.84,0,1\">Boutique — Points & Commandes</>",
-                        "text": "<TextStyle.Yellow>Gains :</>\n• Toutes les 30 min de jeu : <RichColor Color=\"0,1,0.5,1\">+45 pts</>\n\n<TextStyle.Yellow>Commandes :</>\n• <RichColor Color=\"0.3,0.7,1,1\">/shop</> — Ouvre la boutique (F6)"
-                    },
-                    {
-                        "title": "<RichColor Color=\"0,1,1,1\">Joueurs Connectes</>",
-                        "text": "{playerlist}"
-                    }
-                ]
-            }
-        ],
+      {
+        "layout": 4,
+        "buttontext": "<RichColor Color=\"0.7,0.3,1,1\">Mods & Boutique</>",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0.7,0.3,1,1\">Mods Gameplay & Interface</>",
+            "text": "• <RichColor Color=\"1,0.84,0,1\">WBUI2</> — Interface personnalisee\n• <RichColor Color=\"1,0.84,0,1\">MX-E Ark Shop UI</> — Boutique en jeu\n• <RichColor Color=\"1,0.84,0,1\">Fusionshop</> — Boutique de fusion\n• <RichColor Color=\"1,0.84,0,1\">AwesomeSpyGlass!</> — Longue-vue amelioree\n• <RichColor Color=\"1,0.84,0,1\">ASA Api Utils</> — Utilitaires API\n• <RichColor Color=\"1,0.84,0,1\">TG Stacking Mod 1000-50</> — Stacking ameliore"
+          },
+          {
+            "title": "<RichColor Color=\"0.7,0.3,1,1\">Mods Dinos & Qualite de Vie</>",
+            "text": "• <RichColor Color=\"1,0.84,0,1\">S-Dino Variants</> — Variantes speciales de dinos\n• <RichColor Color=\"1,0.84,0,1\">Visual Storage</> — Stockage visuel\n• <RichColor Color=\"1,0.84,0,1\">MarniiMods Hairstyles</> — Coiffures & cosmetiques"
+          },
+          {
+            "title": "<RichColor Color=\"1,0.84,0,1\">Boutique — Points & Commandes</>",
+            "text": "<TextStyle.Yellow>Gains :</>\n• Toutes les 30 min de jeu : <RichColor Color=\"0,1,0.5,1\">+45 pts</>\n\n<TextStyle.Yellow>Commandes :</>\n• <RichColor Color=\"0.3,0.7,1,1\">/shop</> — Ouvre la boutique (F6)"
+          },
+          {
+            "title": "<RichColor Color=\"0,1,1,1\">Joueurs Connectes</>",
+            "text": "{playerlist}"
+          }
+        ]
+      }
+    ],
 
-        "links": [
-            { "text": "<RichColor Color=\"0.4,0.6,1,1\">Discord Legoras Ark</>", "url": "https://discord.gg/yTgKndZF" }
-        ],
+    "links": [
+      {
+        "text": "<RichColor Color=\"0.4,0.6,1,1\">Discord Legoras Ark</>",
+        "url": "https://discord.gg/yTgKndZF"
+      }
+    ],
 
-        "hiddenengrams": [
-        ],
+    "hiddenengrams": [],
 
-        "version": 2
-    }
+    "version": 2
+  }
 }
