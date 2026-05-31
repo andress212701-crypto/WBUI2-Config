@@ -20,7 +20,7 @@
         "content": [
           {
             "title": "<RichColor Color=\"1,0.84,0,1\">Legoras Ark — Serveur PvE x3</>",
-            "text": "<TextStyle.Orange>Bienvenue sur Legoras Ark !</>\n\nTu viens de rejoindre un serveur <RichColor Color=\"1,0.84,0,1\">PvE x3</> francophone, pensé pour une expérience confortable et communautaire.\n\n<TextStyle.LightBlue>Raccourcis utiles :</>\n\n• <RichColor Color=\"1,0.84,0,1\">F1</> — Ce menu d'information\n• <RichColor Color=\"1,0.84,0,1\">F6</> — Boutique du serveur\n• <RichColor Color=\"1,0.84,0,1\">/shop</> — Commande boutique\n• <RichColor Color=\"1,0.84,0,1\">/recu</> — Récupérer ses objets après la mort\n• <RichColor Color=\"1,0.84,0,1\">/lsm</> — Lister ses morts\n\n<TextStyle.Yellow>Infos importantes :</>\n\n• Le serveur redémarre chaque jour à <RichColor Color=\"1,0.3,0.3,1\">3h00 du matin (UTC-5 / UTC-4 en été)</> — prévois tes actions en conséquence.\n• Serveur en <RichColor Color=\"1,0.84,0,1\">cluster</> — toutes les cartes ARK disponibles. Actuellement en ligne : <RichColor Color=\"0,1,0.5,1\">The Island</> & <RichColor Color=\"0,1,0.5,1\">Ragnarok</> (autres cartes à venir selon l'infrastructure).\n• Pour <RichColor Color=\"1,0.84,0,1\">acheter des points</>, rends-toi sur notre <RichColor Color=\"0.4,0.6,1,1\">Discord</> via le bouton en bas.\n\n<TextStyle.Green>Bon jeu et bonne aventure !</>"
+            "text": "<TextStyle.Orange>Bienvenue sur Legoras Ark !</>\n\nTu viens de rejoindre un serveur <RichColor Color=\"1,0.84,0,1\">PvE x3</> francophone, pensé pour une expérience confortable et communautaire.\n\n<TextStyle.LightBlue>Raccourcis utiles :</>\n\n• <RichColor Color=\"1,0.84,0,1\">F1</> — Ce menu d'information\n• <RichColor Color=\"1,0.84,0,1\">F6</> — Boutique du serveur\n• <RichColor Color=\"1,0.84,0,1\">/shop</> — Commande boutique\n• <RichColor Color=\"1,0.84,0,1\">/recu</> — Récupérer ses objets après la mort\n• <RichColor Color=\"1,0.84,0,1\">/lsm</> — Lister ses morts\n\n<TextStyle.Yellow>Infos importantes :</>\n\n• Le serveur redémarre chaque jour à <RichColor Color=\"1,0.3,0.3,1\">3h00 du matin (UTC-5 / UTC-4 en été)</> — prévois tes actions en conséquence.\n• Serveur en <RichColor Color=\"1,0.84,0,1\">cluster</> — toutes les cartes ARK disponibles. Actuellement en ligne : <RichColor Color=\"0,1,0.5,1\">The Island</> & <RichColor Color=\"0,1,0.5,1\">Ragnarok.</> \n• Pour <RichColor Color=\"1,0.84,0,1\">acheter des points</>, rends-toi sur notre <RichColor Color=\"0.4,0.6,1,1\">Discord</> via le bouton en bas.\n\n<TextStyle.Green>Bon jeu et bonne aventure !</>"
           }
         ]
       },
@@ -35,7 +35,7 @@
           },
           {
             "title": "<RichColor Color=\"0.3,0.7,1,1\">Taux d'Élevage</>",
-            "text": "• Incubation : <RichColor Color=\"1,0.84,0,1\">x5</>\n• Maturation : <RichColor Color=\"1,0.84,0,1\">x40</>\n• Accouplement : <RichColor Color=\"1,0.84,0,1\">~10 min (0.005)</>\n• Vitesse d'accouplement : <RichColor Color=\"1,0.84,0,1\">x3</>\n• Câlins : <RichColor Color=\"1,0.84,0,1\">x0.08</>\n• Imprint par câlin : <RichColor Color=\"1,0.84,0,1\">x10</>\n• Nourriture bébé : <RichColor Color=\"1,0.84,0,1\">x0.5</>\n• Imprint universel : <RichColor Color=\"0,1,0.5,1\">✔ Activé</>"
+            "text": "• Incubation : <RichColor Color=\"1,0.84,0,1\">x5</>\n• Maturation : <RichColor Color=\"1,0.84,0,1\">x40</>\n• Accouplement : <RichColor Color=\"1,0.84,0,1\">~10 min </>\n• Vitesse d'accouplement : <RichColor Color=\"1,0.84,0,1\">x3</>\n• Câlins : <RichColor Color=\"1,0.84,0,1\">x0.08</>\n• Imprint par câlin : <RichColor Color=\"1,0.84,0,1\">x10</>\n• Nourriture bébé : <RichColor Color=\"1,0.84,0,1\">x6.0</>\n• Imprint universel : <RichColor Color=\"0,1,0.5,1\">✔ Activé</>"
           },
           {
             "title": "<RichColor Color=\"1,0.5,0,1\">Difficulté & Survie</>",
@@ -43,7 +43,7 @@
           },
           {
             "title": "<RichColor Color=\"1,0.3,0.3,1\">PvE & Sécurité</>",
-            "text": "• Mode : <RichColor Color=\"1,0.84,0,1\">PvE</>\n• Friendly Fire : <RichColor Color=\"0,1,0.5,1\">✔ Désactivé</>\n• Guerre de tribus PvE : <RichColor Color=\"0,1,0.5,1\">✔ Autorisé</>\n• Recettes perso : <RichColor Color=\"0,1,0.5,1\">✔ Activé</> (efficacité x2)\n• Protection hors-ligne : <RichColor Color=\"0,1,0.5,1\">✔ Activé</>\n• Decay structures/dinos : <RichColor Color=\"0,1,0.5,1\">✔ Désactivé</>\n• Anti PvE Griefing :</>\n• Inventaires corps/sacs protégés\n• Controle des structures (générateur...)\n• Accouplement inter-tribu bloqué\n• Impossible de porter un joueur/dino\n• Oeufs et objets au sol protégés\n• Dinos decays détruits auto\n• Protection offline personnalisée"
+            "text": "• Mode : <RichColor Color=\"1,0.84,0,1\">PvE</>\n• Friendly Fire : <RichColor Color=\"0,1,0.5,1\">✔ Désactivé</>\n• Guerre de tribus PvE : <RichColor Color=\"0,1,0.5,1\">✔ Autorisé</>\n• Recettes perso : <RichColor Color=\"0,1,0.5,1\">✔ Activé</> (efficacité x2)\n• Protection hors-ligne : <RichColor Color=\"0,1,0.5,1\">✔ Activé</>\n• Decay structures/dinos : <RichColor Color=\"0,1,0.5,1\">✔ Désactivé</>\n• Anti PvE Griefing \n• Inventaires corps/sacs protégés\n• Controle des structures (générateur...)\n• Accouplement inter-tribu bloqué\n• Impossible de porter un joueur/dino\n• Oeufs et objets au sol protégés\n• Dinos decays détruits auto\n• Protection offline personnalisée"
           }
         ]
       },
@@ -114,11 +114,11 @@
       },
       {
         "layout": 2,
-        "buttontext": "<RichColor Color=\"0,0.8,1,1\">Ressources</>",
+        "buttontext": "<RichColor Color=\"0,0.8,1,1\">Dododex</>",
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
         "content": [
           {
-            "title": "<RichColor Color=\"0,0.8,1,1\">Cartes du Cluster</>",
+            "title": "<RichColor Color=\"0,0.8,1,1\">Clusters</>",
             "text": "<TextStyle.LightBlue>Notre serveur fait partie d'un cluster ARK :</>\n\n<TextStyle.Yellow>Actuellement en ligne :</>\n• <RichColor Color=\"0,1,0.5,1\">The Island</> — Carte de base\n• <RichColor Color=\"0,1,0.5,1\">Ragnarok</> — Carte nordique\n\n<TextStyle.Red>À venir (selon l'infrastructure) :</>\n• Scorched Earth, Aberration, Extinction\n• The Center, Crystal Isles, Fjordur\n• Lost Island, Genesis 1 & 2"
           },
           {
@@ -134,7 +134,7 @@
         "url": "https://discord.gg/cqAE5VBSPe"
       },
       {
-        "text": "<RichColor Color=\"0,0.8,1,1\">Cartes & Dinos</>",
+        "text": "<RichColor Color=\"0,0.8,1,1\">Wikily</>",
         "url": "https://wikily.gg/fr/ark-survival-ascended/maps/"
       },
       {
